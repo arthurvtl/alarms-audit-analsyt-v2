@@ -379,10 +379,6 @@ npm start
 - Alterar credenciais padrão do banco de dados
 - Usar HTTPS em ambiente de produção
 
-## 📄 Licença
-
-Sistema desenvolvido por **ATI - Automação Telecomunicações e Informática**
-
 ## 👥 Suporte
 
 Para dúvidas ou problemas:
@@ -393,6 +389,5 @@ Para dúvidas ou problemas:
 
 ## 🎉 Conclusão
 
-O Sistema de Análise de Alarmes (SGD) está pronto para uso! Siga as instruções de instalação e execução para começar a analisar os dados de suas usinas solares.
+O Sistema de Análise de Alarmes (SGD) está pronto para uso!
 
-**Desenvolvido com ❤️ pela equipe ATI**
